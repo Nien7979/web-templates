@@ -1,9 +1,8 @@
 # Kho Template & Skill Build Website — web-templates
 
 Kho skill và agent **miễn phí / mã nguồn mở** để build và thiết kế website bằng AI
-(Claude Code, Codex, Free Claude Code…), tổng hợp từ thư viện
-[AI Templates của Phan Đông Giang](https://phandonggiang.com/ai-templates)
-— thực chất là catalog [Claude Code Templates](https://aitmpl.com) /
+(Claude Code, Codex, Free Claude Code…), tổng hợp từ catalog
+[Claude Code Templates](https://aitmpl.com) /
 [github.com/davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
 (2.019 component, giấy phép MIT).
 
@@ -102,7 +101,7 @@ hoặc cài bản gốc bằng `npx claude-code-templates@latest --skill <nhóm>
 - **Catalog gốc có 2.019 component** (23/11/2026); repo này chỉ chọn **39 mục
   trực tiếp phục vụ build & thiết kế website**. Phần còn lại của catalog
   (AI research, marketing, data…) không nằm trong phạm vi kho này.
-- Nhóm **Templates (14 mục)** trên trang phandonggiang.com/ai-templates chạy
+- Nhóm **Templates (14 mục)** trong catalog chạy
   bằng JavaScript nên không liệt kê được bằng cách đọc text — xem ghi chú
   trong [THAM-KHAO.md](THAM-KHAO.md).
 

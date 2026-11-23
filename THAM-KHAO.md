@@ -4,31 +4,23 @@ Các mục dưới đây **không được copy file vào repo** vì trả phí,
 kín, cần API key trả phí, nằm ngoài phạm vi "build & thiết kế website",
 hoặc không đọc được bằng cách đọc text. Chỉ ghi link để tham khảo.
 
-## 1. Tài nguyên trả phí của Phan Đông Giang
+## 1. Nhóm Templates trong catalog
 
-| Mục | Link | Ghi chú |
-|---|---|---|
-| Bộ 8 skill edit video tự động bằng Claude/ChatGPT | https://phandonggiang.com/skills | Membership 50.000đ — không miễn phí |
-| Gói GPT độc quyền + video chỉ dành cho member | https://phandonggiang.com/#gpt-doc-quyen | Membership — không miễn phí |
-| Khoá học / GPT set tổng hợp (ưu tiên Gold Member) | https://phandonggiang.com/ | Trả phí theo gói member |
-
-## 2. Nhóm Templates trên trang AI Templates
-
-- Trang https://phandonggiang.com/ai-templates có nhóm **Templates (14 mục)**
+- Catalog có nhóm **Templates (14 mục)**
   nhưng nội dung tải bằng JavaScript nên không liệt kê được bằng cách đọc
-  text trang. Muốn xem đủ 14 mẫu này cần mở trang bằng trình duyệt.
+  text trang. Muốn xem đủ 14 mẫu này cần mở catalog bằng trình duyệt.
 - Catalog gốc aitmpl.com cũng không có loại `templates` trong API
   (`/api/v1/` chỉ có agents, commands, mcps, settings, hooks, skills,
-  loops, mods) — 14 mục Templates là cách nhóm riêng của trang
-  phandonggiang.com.
+  loops, mods) — 14 mục Templates là cách nhóm riêng trong giao diện
+  web của catalog.
 
-## 3. Minh hoạ Illos Pro (trả phí)
+## 2. Minh hoạ Illos Pro (trả phí)
 
 - Skill `illos-library` trong repo chỉ dùng minh hoạ **miễn phí** của
   Illos.dev. Minh hoạ Pro và skill Pro theo theme xem tại
   https://illos.dev/pro — trả phí, không copy preview.
 
-## 4. Skill cần API key trả phí (không đưa vào)
+## 3. Skill cần API key trả phí (không đưa vào)
 
 | Skill | Cần key | Link gốc |
 |---|---|---|
@@ -36,7 +28,7 @@ hoặc không đọc được bằng cách đọc text. Chỉ ghi link để tha
 | luma-imagegen | `LUMA_API_KEY` | https://www.aitmpl.com/component/skills/creative-design/luma-imagegen |
 | patentfig | `PATENTFIG_API_KEY` | https://www.aitmpl.com/component/skills/creative-design/patentfig |
 
-## 5. Skill ngoài phạm vi website (không đưa vào, có link gốc để tự lấy)
+## 4. Skill ngoài phạm vi website (không đưa vào, có link gốc để tự lấy)
 
 | Skill | Vì sao không đưa vào | Link gốc |
 |---|---|---|
@@ -50,7 +42,7 @@ hoặc không đọc được bằng cách đọc text. Chỉ ghi link để tha
 | draw-io / excalidraw / c4-architecture | Vẽ sơ đồ (đã có diagrammer + mermaid-diagrams trong repo) | https://aitmpl.com (tìm theo tên) |
 | algorithmic-art | Nghệ thuật sinh bằng p5.js | https://www.aitmpl.com/component/skills/creative-design/algorithmic-art |
 
-## 6. Kho skill tổng hợp khác (để mở rộng sau)
+## 5. Kho skill tổng hợp khác (để mở rộng sau)
 
 | Kho | Mô tả | Giấy phép | Link |
 |---|---|---|---|

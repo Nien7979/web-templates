@@ -1,8 +1,8 @@
 # Nguồn & giấy phép
 
-Tổng hợp ngày 23/11/2026 từ trang
-https://phandonggiang.com/ai-templates
-(thư viện AI Templates — Claude Code & ChatGPT Codex).
+Tổng hợp ngày 23/11/2026 từ catalog
+[aitmpl.com](https://aitmpl.com) (Claude Code Templates —
+kho tổng davila7/claude-code-templates).
 
 ## Nguồn chính
 
@@ -10,7 +10,6 @@ https://phandonggiang.com/ai-templates
 |---|---|---|
 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Kho tổng chứa toàn bộ file skill/agent trong repo này (2.019 component tại thời điểm tổng hợp) | MIT — Copyright (c) 2025 Daniel (San) Ávila (file `LICENSE` ở gốc repo này) |
 | [aitmpl.com](https://aitmpl.com) | Catalog duyệt + API công khai của kho tổng (`/api/v1/catalog.json`, `/api/v1/version.json`) | MIT |
-| [phandonggiang.com/ai-templates](https://phandonggiang.com/ai-templates) | Trang tổng hợp tiếng Việt trỏ tới kho trên (2.055 template hiển thị trên trang ngày 19/11/2026) | — (trang tổng hợp, không phải nguồn file) |
 | [navedux/illos-skills](https://github.com/navedux/illos-skills) | Nguồn của skill `illos-library` | MIT — Copyright (c) 2026 Naved Alam |
 
 ## Giấy phép theo skill
